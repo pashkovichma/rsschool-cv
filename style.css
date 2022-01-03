@@ -1,1 +1,57 @@
-css
+* {
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+    font: Arial, Helvetica, sans-serif;
+}
+
+html, 
+body {
+	height: 100%;
+}
+
+article {
+    margin: 20px 0;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+.footer {
+    display: flex;
+	flex: 0 0 auto;
+    font-size: 12px;
+}
+
+.list-margin {
+    margin: 20px 0;
+}
+
+.list-style-none {
+    list-style-type: none;
+}
+
+.logo {
+    width: 50px;
+    height: 20px;
+}
+
+.photo {
+    margin: 50px 0;
+    width: 250px;
+}
+
+h1,
+.underlined {
+    border-bottom: 1px solid black;
+}
+
+.wrapper {
+ width: 80%;
+ margin: auto;
+}
