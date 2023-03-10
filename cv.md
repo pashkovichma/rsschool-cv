@@ -30,7 +30,8 @@ Buisiness Analysis Course
 #### Certificate of Completion, September 2012 – December 2012
 
 ### Rolling Scopes School
-#### Java Script Course, Minsk, Belarus, 2017
+#### Java Script Course, 2022-2023
+#### Java Script Course, 2017
 
 ## Code Examples
 ```
