@@ -1,4 +1,5 @@
 # Maryia Pashkovich
+![](/PashkovichMaryia.jpg)
 
 ## Contacts
 ### pashkovichma@gmail.com
